@@ -1,0 +1,21 @@
+{
+  "name": "table5-app",
+  "version": "1.0.0",
+  "description": "表5工资表自动生成系统 - 纯前端版本",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "preview": "python3 -m http.server 8000",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "excel",
+    "salary",
+    "cloudflare-pages",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

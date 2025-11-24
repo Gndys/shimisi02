@@ -1,0 +1,6 @@
+name = "table5-app"
+compatibility_date = "2025-11-24"
+
+# 静态资产配置
+[assets]
+directory = "."

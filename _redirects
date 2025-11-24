@@ -1,0 +1,4 @@
+# Cloudflare Pages 重定向配置
+
+# 所有路径都重定向到 index.html (SPA 支持)
+/*    /index.html   200
